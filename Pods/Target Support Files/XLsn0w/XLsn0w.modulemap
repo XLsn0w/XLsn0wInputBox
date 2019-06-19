@@ -1,0 +1,6 @@
+framework module XLsn0w {
+  umbrella header "XLsn0w-umbrella.h"
+
+  export *
+  module * { export * }
+}

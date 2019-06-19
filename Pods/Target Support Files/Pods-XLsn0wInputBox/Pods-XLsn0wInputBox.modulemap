@@ -1,0 +1,6 @@
+framework module Pods_XLsn0wInputBox {
+  umbrella header "Pods-XLsn0wInputBox-umbrella.h"
+
+  export *
+  module * { export * }
+}
